@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dtuset.github.io/handbook-233omr/sitemap.xml
